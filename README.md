@@ -10,5 +10,6 @@ this repositories contains a simple javaapplication used for demonstration of Ci
 ## Connect me via 
 1. [GitHub](https://guthub.com/MathUtils)
 2. [Facebook](https://www.facebook.com/Dinh.gt.140538/)
+3. [Gmail] (dinhgtce140538@fpt.edu.vn);
 
 #### © 2020 by GTD 
