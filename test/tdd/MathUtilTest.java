@@ -42,7 +42,7 @@ public class MathUtilTest {
        //nó đạ diện cho 1 cái bất thường nào đó.
        //bất thường thì k thể so sánh được
        //vậy tình hướng ném ra ngoại lệ, ko là return, nên k xài được hàm
-       //aserEquals(valie, value)
+       //aserEquals(value, value)
        //ta xài chiếu kahcs, ta chỉ hứng ngoại lệ, coi nó có đúng ngoại lệ đó không?
        MathUtil.computeFactorial(-5);
    }
